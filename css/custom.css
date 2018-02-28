@@ -97,7 +97,7 @@ header {
   -o-background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  background-image: url('F:/Web Design Projects/Portfolio Sites/One Page Site/Environment/images/foggy.jpg');
+  background-image: url('../images/foggy.jpg');
   text-align: center;
   color: white;
 }
@@ -515,7 +515,7 @@ p.lead{
 /*CONTACT SECTION */
 section#contact {
     background-color: #222222;
-    background-image: url('F:/Web Design Projects/Portfolio Sites/One Page Site/Environment/images/map-image.png');
+    background-image: url('../images/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
